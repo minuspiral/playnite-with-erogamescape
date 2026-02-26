@@ -4,3 +4,7 @@ Author: minuspiral
 Version: 1.0.0
 Module: ErogameScapeMetadata.dll
 Type: MetadataProvider
+Icon: icon.png
+Links:
+  - Name: GitHub
+    Url: https://github.com/minuspiral/playnite-with-erogamescape
