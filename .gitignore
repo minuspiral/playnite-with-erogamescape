@@ -1,0 +1,20 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+
+# Build artifacts
+*.pext
+*.pdb
+
+# IDE
+.vscode/
+.idea/
+
+# NuGet
+packages/
+
+# Claude Code
+.claude/
